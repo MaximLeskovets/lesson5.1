@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Максим",
+    "lastname": "Лесковец",
+    "phonenumber": 89054939292
+  },
+  {
+    "firstname": "Ангелина",
+    "lastname": "Лесковец",
+    "phonenumber": 89030320202
+  },
+  {
+  "firstname": "Игорь",
+  "lastname": "Ухов",
+  "phonenumber": 89054939233
+},
+  {
+    "firstname": "Сергей",
+    "lastname": "Коркин",
+    "phonenumber": 89030544202
+  }
+]
